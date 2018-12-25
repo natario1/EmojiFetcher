@@ -1,0 +1,15 @@
+{
+  "name": "emoji",
+  "version": "0.0.1",
+  "description": "Fetch emojis and create a JSON to be consumed.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Mattia Iavarone",
+  "license": "ISC"
+}
